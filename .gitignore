@@ -1,0 +1,8 @@
+# Datos de ModelNet10: no se vuelven a publicar (los derechos son de sus autores)
+ModelNet10/
+ModelNet10.zip
+__MACOSX/
+# Caché de nubes y características (se genera al correr el notebook)
+salidas/cache_modelnet10.npz
+.ipynb_checkpoints/
+.venv/
